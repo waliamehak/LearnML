@@ -26,7 +26,7 @@ SECRET_KEY = 'q%papn8k!0ro)@-a159yj=fcq1%f*x7$&e%@aq9q18!3edzcp+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["shrouded-citadel-31353.herokuapp.com", "127.0.0.1"]
+ALLOWED_HOSTS = ['learnml-gzqv.onrender.com', '127.0.0.1']
 
 
 # Application definition
